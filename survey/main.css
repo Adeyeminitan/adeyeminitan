@@ -1,0 +1,67 @@
+body {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(surveyImage2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  overflow-x: hidden;
+}
+
+#title {
+  text-align: center;
+  font-weight: bolder;
+  color: #ffffff;
+}
+
+#description {
+  text-align: center;
+  color: #ffffff;
+}
+
+.weight {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+#survey-form {
+  background-color: #602a0acc;
+  color: #ffffff;
+}
+
+#name-label {
+  padding-right: 500px;
+  margin-bottom: 20px;
+}
+
+#email-label {
+  padding-right: 500px;
+  margin-bottom: 20px;
+}
+
+#number-label {
+  margin-right: 580px;
+  margin-bottom: 20px;
+  width: 85%;
+}
+
+#dropdown {
+  padding-right: 520px;
+  margin-bottom: 20px;
+}
+
+#weight {
+  margin-top: 20px;
+}
+
+#any {
+  margin-top: 20px;
+}
+
+#or {
+  padding-right: 75px;
+  margin-bottom: 20px;
+}
+
+#submit {
+  padding-right: 605px;
+}
