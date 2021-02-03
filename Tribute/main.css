@@ -1,0 +1,41 @@
+.sub-div {
+  background-color: #eeeeee;
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+}
+
+#title {
+  font-size: 50px;
+  color: #333333;
+  padding: 8px 0px 8px 0px;
+}
+
+.billion {
+  font-size: 20px;
+  color: #333333;
+}
+
+#img-div {
+  background-color: #ffffff;
+}
+
+#img-caption {
+  font-size: 15px;
+  padding: 10px 0px 10px 0px;
+}
+
+#tribute-info {
+  padding: 0px 400px 0px 400px;
+  font-size: 18px;
+}
+
+ul {
+  color: #333333;
+  line-height: 1.5cm;
+}
+
+.wiki {
+  font-size: 15px;
+}
